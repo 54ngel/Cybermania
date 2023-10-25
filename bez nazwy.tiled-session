@@ -1,0 +1,27 @@
+{
+    "activeFile": "cybermaina.tsx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Wszystkie pliki (*)",
+    "fileStates": {
+        "cybermaina.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/Administrator/Desktop/CyberMania",
+    "openFiles": [
+        "cybermaina.tsx"
+    ],
+    "project": "bez nazwy.tiled-project",
+    "recentFiles": [
+        "cybermaina.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#ffffff",
+    "tileset.useTransparentColor": true
+}

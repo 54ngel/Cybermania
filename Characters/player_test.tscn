@@ -1,0 +1,26 @@
+[gd_scene load_steps=5 format=3 uid="uid://djg02h73aw7xs"]
+
+[ext_resource type="Texture2D" uid="uid://cgis8sp5rvds2" path="res://Art/Characters/Basic Charakter Spritesheet.png" id="1_mt7fs"]
+
+[sub_resource type="GDScript" id="GDScript_v7fyb"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_kq0ph"]
+size = Vector2(12, 6)
+
+[sub_resource type="GDScript" id="GDScript_yfst5"]
+script/source = "extends CollisionShape2D
+"
+
+[node name="PlayerTest" type="CharacterBody2D"]
+script = SubResource("GDScript_v7fyb")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_mt7fs")
+hframes = 4
+vframes = 4
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, 5)
+shape = SubResource("RectangleShape2D_kq0ph")
+one_way_collision_margin = 0.0
+script = SubResource("GDScript_yfst5")

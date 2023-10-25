@@ -16,4 +16,3 @@
 2. W lewym dolnym rogu jest pole do wpisania nazwy commita, opis i przycisk "commit to main";
 3. Uzupełnij pole nazwy i opcjonalnie opisu, a następnie naciśnij "commit to main";
 4. Następnie naciśnij przycisk "push to origin" który powinien pojawić się po prawej.
-5. 

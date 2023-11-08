@@ -10,3 +10,4 @@
 2. Otwórz GitHub;
 3. Wybierz: Current repository(w lewym górnym rogu) > Clone > URL i wpisz ```https://github.com/54ngel/Cybermania.git``` w polu URL;
 4. Następnie wpisz ścieżkę folderu w którym chcesz mieć repozytorium, jeżeli wpiszesz ścieżkę której nie ma, nowy folder zostanie utworzony i tam zostanie utworzone repozytorium.
+

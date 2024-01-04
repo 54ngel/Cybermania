@@ -1,4 +1,5 @@
-# Cybermania
+# Wszystkie nazwy i opisy commitów oraz nazwy branchów muszą mieć sens
+Wszystkie nazwy i opisy commitów muszą informować co zostało zmienione żeby nie było chaosu.
 
 # Potrzebne programy:
 
